@@ -1,4 +1,4 @@
-package assignment2;
+package brick-clicker;
 
 class Constants {                                                                       // ---------------------------------------
     public static final int BLOCKHEIGHT = 100;                                          // Declare variable for BLOCKHEIGHT.
