@@ -1,4 +1,4 @@
-package assignment2;
+package brick-clicker;
 
 import java.awt.*;
 import java.util.Random;
