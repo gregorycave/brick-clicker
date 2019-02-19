@@ -1,4 +1,4 @@
-package assignment2;
+package brick-clicker;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
