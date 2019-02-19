@@ -1,4 +1,4 @@
-package assignment2;
+package brick-clicker;
 
 import javax.swing.*;
 import java.awt.*;
